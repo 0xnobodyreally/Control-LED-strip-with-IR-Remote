@@ -5,9 +5,6 @@
 
     **Functions:**  OFF, ON, Increase/Decrease Brightness, Rainbow colors, Flash colors
 
-    **External libraries used for custom colors: (these are now included in the sketch, no need to add separately) **
-<s>      - MyGRBcolor for WS2811 strip:  http://bluenik.com/14971557/my-grb-color-library </s>
-<s>      - MyRGBcolor for WS2812b strip: http://bluenik.com/14971557/my-rgb-color-library </s>
 
     Note: THIS SKETCH IS DIVIDED IN DIFFERENT TABS
 
