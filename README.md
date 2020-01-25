@@ -1,9 +1,9 @@
 # Control a WS2811 or WS2812b Led strip with an IR remote
 
     This sketch is designed to control a WS2811 or WS2812 Led strip using a RGB IR Remote:
-    RGB Remote: [https://images-na.ssl-images-amazon.com/images/I/71%2BXEYNSplL._SL1500_.jpg]
+    RGB Remote: (https://images-na.ssl-images-amazon.com/images/I/71%2BXEYNSplL._SL1500_.jpg)
 
-    YouTube Demo: [https://youtu.be/WszzmkpDbmA]
+    YouTube Demo: (https://youtu.be/WszzmkpDbmA)
 
     **Functions:**  OFF, ON, Increase/Decrease Brightness, Rainbow colors, Flash colors
 
