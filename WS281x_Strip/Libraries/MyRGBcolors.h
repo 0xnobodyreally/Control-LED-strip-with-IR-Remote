@@ -11,7 +11,7 @@
 #define  RED         255, 0, 0         //  Red
 #define  GREEN       0, 255, 0         //  Green
 #define  BLUE        0, 0, 255         //  Blue
-#define  WHITEe       255, 255, 255     //  White
+#define  WHITE       255, 255, 255     //  White
 #define  GREY        100, 100, 100     //  Grey
 #define  ORANGE      255, 153, 0       //  Orange
 #define  MINT        0, 255, 178       //  Mint

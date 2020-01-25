@@ -1,6 +1,11 @@
 
-#include <MyRGBcolors.h>            //  My RGB color library for WS2812b strip
+// #include <MyRGBcolors.h>            //  My RGB color library for WS2812b strip
 //#include <MyGRBcolors.h>          //  My GRB color library for WS2811 strip
+
+#include "./Libraries/MyRGBcolors.h"//  My color library for RGB WS2812b strip
+// #include "./Libraries/MyGRBcolors.h"//  My color library for GRB WS2812b strip
+
+
 #include <Adafruit_NeoPixel.h>      //  Library for WS2811/WS2812b Led strips
 #include "IRremote.h"               //  Library for IR Remote
 
